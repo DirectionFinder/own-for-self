@@ -1,5 +1,3 @@
 <?php
 
-echo 'Norm';
-echo 'New change!';
-$s = array();
+echo "<!DOCTYPE HTML> <html><head><title>git!</title></head><body><h1>GIT LESSONS</h1></body></html>";
